@@ -1,2 +1,2 @@
-# MalAnalyze01
-Malware Analysis(Alina OS malware)
+Malware Analysis Alina 
+Step by step analysis of the Alina malware
